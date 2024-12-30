@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         <p><strong>Year:</strong> <span class="data-year">${record.year}</span></p>
                         <p><strong>Genre:</strong> <span class="data-genre">${record.genre}</span></p>
                         <p><strong>Record Label:</strong> <span class="data-label">${record.label}</span></p>
-                        <p><strong>Release:</strong> <span class="data-release">${record.release}</span></p>
+                        <p><strong>Release:</strong> <span class="data-release">Click for details</span></p>
                     </div>
                 `;
                 collectionGrid.appendChild(recordDiv);
