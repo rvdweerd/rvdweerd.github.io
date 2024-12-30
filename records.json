@@ -1,0 +1,62 @@
+[
+    {
+        "id": "gordon-go",
+        "title": "Go!",
+        "artist": "Dexter Gordon",
+        "year": "1962",
+        "genre": "Hard Bob",
+        "label": "Blue Note",
+        "cover": "albums/gordon-go/IMG_2320.JPG",
+        "thumbnails": ["albums/gordon-go/IMG_2320.JPG","albums/gordon-go/IMG_2321.JPG"],
+        "highres": ["albums/gordon-go/IMG_2320.JPG","albums/gordon-go/IMG_2321.JPG"],
+        "info": "Information about Go!"
+    },
+    {
+        "id": "drew-under",
+        "title": "Undercurrent",
+        "artist": "Kenny Drew",
+        "year": "1961",
+        "genre": "Bob",
+        "label": "Blue Note",
+        "cover": "albums/drew-under/IMG_2374.JPG",
+        "thumbnails": ["albums/drew-under/IMG_2374.JPG","albums/drew-under/IMG_2377.JPG"],
+        "highres": ["albums/drew-under/IMG_2374.JPG","albums/drew-under/IMG_2377.JPG"],
+        "info": "Information about Undercurrent"
+    },
+    {
+        "id": "album3",
+        "title": "Album Title 3",
+        "artist": "Artist 3",
+        "year": "1990",
+        "genre": "Jazz",
+        "label": "Label 3",
+        "cover": "images/album3.jpg",
+        "thumbnails": ["thumbnails/album3_thumb1.jpg"],
+        "highres": ["highres/album3_highres1.jpg"],
+        "info": "Information about Album 3"
+    },
+    {
+        "id": "album4",
+        "title": "Album Title 4",
+        "artist": "Artist 4",
+        "year": "2000",
+        "genre": "Hip Hop",
+        "label": "Label 4",
+        "cover": "images/album4.jpg",
+        "thumbnails": ["thumbnails/album4_thumb1.jpg"],
+        "highres": ["highres/album4_highres1.jpg"],
+        "info": "Information about Album 4"
+    },
+    {
+        "id": "album5",
+        "title": "Album Title 5",
+        "artist": "Artist 5",
+        "year": "2010",
+        "genre": "Electronic",
+        "label": "Label 5",
+        "cover": "images/album5.jpg",
+        "thumbnails": ["thumbnails/album5_thumb1.jpg"],
+        "highres": ["highres/album5_highres1.jpg"],
+        "info": "Information about Album 5"
+    }
+]
