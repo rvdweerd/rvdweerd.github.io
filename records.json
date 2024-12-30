@@ -6,10 +6,10 @@
         "year": "1962",
         "genre": "Hard Bob",
         "label": "Blue Note",
-        "cover": "albums/gordon-go/IMG_2320.JPG",
-        "thumbnails": ["albums/gordon-go/IMG_2320.JPG","albums/gordon-go/IMG_2321.JPG"],
-        "highres": ["albums/gordon-go/IMG_2320.JPG","albums/gordon-go/IMG_2321.JPG"],
-        "info": "Information about Go!"
+        "cover": "albums/gordon-go/cover-front-10.JPG",
+        "thumbnails": ["albums/gordon-go/cover-front-10.JPG","albums/gordon-go/cover-back-10.JPG","albums/gordon-go/inner-sleeve-1-10.JPG","albums/gordon-go/inner-sleeve-2-10.JPG","albums/gordon-go/vinyl-1-10.JPG","albums/gordon-go/vinyl-2-10.JPG"],
+        "highres": ["albums/gordon-go/cover-front-70.JPG","albums/gordon-go/cover-back-70.JPG","albums/gordon-go/inner-sleeve-1-70.JPG","albums/gordon-go/inner-sleeve-2-70.JPG","albums/gordon-go/vinyl-1-70.JPG","albums/gordon-go/vinyl-2-70.JPG"],
+        "info": "Vinyl in excellent condition. Sleeve is in good shape, has a small name stamp on top at the back (my dad's). Two minor dents on sleeve corners. Spine is good, with minor damage at top and bottom (last digit of the "Blue note 4112" marking at the bottom of the spine is illegible). Inner sleeve edges have been taped."
     },
     {
         "id": "drew-under",
@@ -24,39 +24,15 @@
         "info": "Information about Undercurrent"
     },
     {
-        "id": "album3",
-        "title": "Album Title 3",
-        "artist": "Artist 3",
-        "year": "1990",
+        "id": "album",
+        "title": "Album Title",
+        "artist": "Artist",
+        "year": "1965",
         "genre": "Jazz",
-        "label": "Label 3",
+        "label": "Label",
         "cover": "images/album3.jpg",
         "thumbnails": ["thumbnails/album3_thumb1.jpg"],
         "highres": ["highres/album3_highres1.jpg"],
-        "info": "Information about Album 3"
-    },
-    {
-        "id": "album4",
-        "title": "Album Title 4",
-        "artist": "Artist 4",
-        "year": "2000",
-        "genre": "Hip Hop",
-        "label": "Label 4",
-        "cover": "images/album4.jpg",
-        "thumbnails": ["thumbnails/album4_thumb1.jpg"],
-        "highres": ["highres/album4_highres1.jpg"],
-        "info": "Information about Album 4"
-    },
-    {
-        "id": "album5",
-        "title": "Album Title 5",
-        "artist": "Artist 5",
-        "year": "2010",
-        "genre": "Electronic",
-        "label": "Label 5",
-        "cover": "images/album5.jpg",
-        "thumbnails": ["thumbnails/album5_thumb1.jpg"],
-        "highres": ["highres/album5_highres1.jpg"],
-        "info": "Information about Album 5"
+        "info": "Information about Album"
     }
 ]
