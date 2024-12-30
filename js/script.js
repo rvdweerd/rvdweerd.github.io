@@ -1,4 +1,6 @@
 let isMainModalOpen = false; // Track if the main modal is open
+let currentHighResIndex = 0; // Track the current high-resolution image index
+let highResImages = []; // Store the list of high-resolution images
 
 // Fetch and display records
 document.addEventListener("DOMContentLoaded", function() {
@@ -49,7 +51,7 @@ function openModal(record) {
     const genre = record.getAttribute('data-genre');
     const label = record.getAttribute('data-label');
     const thumbnails = JSON.parse(record.getAttribute('data-thumbnails'));
-    const highres = JSON.parse(record.getAttribute('data-highres'));
+    highResImages = JSON.parse(record.getAttribute('data-highres')); // Store the high-res images
     const info = record.getAttribute('data-info');
 
     // Generate the content for the modal
@@ -63,7 +65,7 @@ function openModal(record) {
 
     // Add the thumbnails
     thumbnails.forEach((thumbnail, index) => {
-        content += `<img src="${thumbnail}" alt="${title} Thumbnail ${index + 1}" class="thumbnail" onclick="openHighResImage('${highres[index]}')">`;
+        content += `<img src="${thumbnail}" alt="${title} Thumbnail ${index + 1}" class="thumbnail" onclick="openHighResImage(${index})">`;
     });
 
     content += `</div>
@@ -73,11 +75,24 @@ function openModal(record) {
 }
 
 // Open high-resolution image modal
-function openHighResImage(imageSrc) {
+function openHighResImage(index) {
+    currentHighResIndex = index; // Set the current high-res image index
     const highResModal = document.getElementById('highResModal');
     const highResImage = document.getElementById('highResImage');
-    highResImage.src = imageSrc;
+    highResImage.src = highResImages[currentHighResIndex];
     highResModal.style.display = 'block';
+}
+
+// Navigate through high-resolution images
+function navigateHighResImage(direction) {
+    currentHighResIndex += direction;
+    if (currentHighResIndex < 0) {
+        currentHighResIndex = highResImages.length - 1;
+    } else if (currentHighResIndex >= highResImages.length) {
+        currentHighResIndex = 0;
+    }
+    const highResImage = document.getElementById('highResImage');
+    highResImage.src = highResImages[currentHighResIndex];
 }
 
 // Close modal function
