@@ -9,7 +9,8 @@
         "cover": "albums/gordon-go/cover-front-10.JPG",
         "thumbnails": ["albums/gordon-go/cover-front-10.JPG","albums/gordon-go/cover-back-10.JPG","albums/gordon-go/inner-sleeve-1-10.JPG","albums/gordon-go/inner-sleeve-2-10.JPG","albums/gordon-go/vinyl-1-10.JPG","albums/gordon-go/vinyl-2-10.JPG"],
         "highres": ["albums/gordon-go/cover-front-70.JPG","albums/gordon-go/cover-back-70.JPG","albums/gordon-go/inner-sleeve-1-70.JPG","albums/gordon-go/inner-sleeve-2-70.JPG","albums/gordon-go/vinyl-1-70.JPG","albums/gordon-go/vinyl-2-70.JPG"],
-        "info": "Vinyl in excellent condition, NM. Sleeve is in good shape VG+. It has a small name stamp on top at the back (from my dad). Two minor dents on sleeve corners. Spine is good, with minor damage at top and bottom (last digit of the \"Blue note 4112\" marking at the bottom of the spine is illegible). Inner sleeve edges have been taped"
+        "info": "Vinyl in excellent condition, NM. Sleeve is in good shape VG+. It has a small name stamp on top at the back (from my dad). Two minor dents on sleeve corners. Spine is good, with minor damage at top and bottom (last digit of the \"Blue note 4112\" marking at the bottom of the spine is illegible). Inner sleeve edges have been taped",
+        "release:" "https://www.discogs.com/release/3380665-Dexter-Gordon-Go"
     },
     {
         "id": "drew-under",
@@ -21,7 +22,8 @@
         "cover": "albums/drew-under/IMG_2374.JPG",
         "thumbnails": ["albums/drew-under/IMG_2374.JPG","albums/drew-under/IMG_2377.JPG"],
         "highres": ["albums/drew-under/IMG_2374.JPG","albums/drew-under/IMG_2377.JPG"],
-        "info": "Information about Undercurrent"
+        "info": "Information about Undercurrent",
+        "release:" "https://www.discogs.com/release/123"
     },
     {
         "id": "album",
@@ -33,6 +35,7 @@
         "cover": "images/album3.jpg",
         "thumbnails": ["thumbnails/album3_thumb1.jpg"],
         "highres": ["highres/album3_highres1.jpg"],
-        "info": "Information about Album"
+        "info": "Information about Album",
+        "release:" "https://www.discogs.com/release/123"
     }
 ]
