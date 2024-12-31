@@ -33,8 +33,8 @@
         "genre": "Bop",
         "label": "Blue Note",
         "cover": "albums/drew-under/cover-front-10.JPG",
-        "thumbnails": ["albums/drew-under/cover-front-10.JPG","albums/drew-under/cover-back-10.JPG","albums/drew-under/inner-sleeve-1-10.JPG","albums/drew-under/inner-sleeve-2-10.JPG","albums/drew-under/vinyl-1-10.JPG","albums/drew-under/vinyl-2-10.JPG"],
-        "highres": ["albums/drew-under/cover-front-70.JPG","albums/drew-under/cover-back-70.JPG","albums/drew-under/inner-sleeve-1-70.JPG","albums/drew-under/inner-sleeve-2-70.JPG","albums/drew-under/vinyl-1-70.JPG","albums/drew-under/vinyl-2-70.JPG"],
+        "thumbnails": ["albums/drew-under/cover-front-10.JPG","albums/drew-under/cover-back-10.JPG","albums/drew-under/inner-sleeve-1-10.JPG","albums/drew-under/innder-sleeve-2-10.JPG","albums/drew-under/vinyl-1-10.JPG","albums/drew-under/vinyl-2-10.JPG"],
+        "highres": ["albums/drew-under/cover-front-70.JPG","albums/drew-under/cover-back-70.JPG","albums/drew-under/inner-sleeve-1-70.JPG","albums/drew-under/innder-sleeve-2-70.JPG","albums/drew-under/vinyl-1-70.JPG","albums/drew-under/vinyl-2-70.JPG"],
         "info": "Information upon request",
         "release": "https://www.discogs.com/release/3382325-Kenny-Drew-Undercurrent"
     }
