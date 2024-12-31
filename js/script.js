@@ -20,6 +20,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 recordDiv.setAttribute('data-thumbnails', JSON.stringify(record.thumbnails));
                 recordDiv.setAttribute('data-highres', JSON.stringify(record.highres));
                 recordDiv.setAttribute('data-info', record.info);
+                recordDiv.setAttribute('data-release', record.release); // Add release data attribute
 
                 recordDiv.innerHTML = `
                     <img src="${record.cover}" alt="${record.title} Cover" class="album-cover">
@@ -29,6 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         <p><strong>Year:</strong> <span class="data-year">${record.year}</span></p>
                         <p><strong>Genre:</strong> <span class="data-genre">${record.genre}</span></p>
                         <p><strong>Record Label:</strong> <span class="data-label">${record.label}</span></p>
+                        <p><strong>Release:</strong> <span class="data-release">Click for details</span></p>
                     </div>
                 `;
                 collectionGrid.appendChild(recordDiv);
@@ -53,6 +55,7 @@ function openModal(record) {
     const thumbnails = JSON.parse(record.getAttribute('data-thumbnails'));
     highResImages = JSON.parse(record.getAttribute('data-highres')); // Store the high-res images
     const info = record.getAttribute('data-info');
+    const release = record.getAttribute('data-release'); // Get the release URL
 
     // Generate the content for the modal
     let content = `
@@ -61,6 +64,7 @@ function openModal(record) {
         <p><strong>Year:</strong> ${year}</p>
         <p><strong>Genre:</strong> ${genre}</p>
         <p><strong>Record Label:</strong> ${label}</p>
+        <p><strong>Release:</strong> <a href="${release}" target="_blank">View on Discogs</a></p>
         <div class="thumbnails">`;
 
     // Add the thumbnails
