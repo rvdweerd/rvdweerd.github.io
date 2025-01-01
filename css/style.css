@@ -29,6 +29,18 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer img {
+    margin-left: 10px; /* Adjust the margin as needed */
+    vertical-align: middle;
 }
 
 /* Smaller footer for mobile devices */
