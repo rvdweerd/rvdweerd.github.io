@@ -1,5 +1,18 @@
 [
     {
+        "id": "hill-black-fire",
+        "title": "Black Fire",
+        "artist": "Andrew Hill",
+        "year": "1964",
+        "genre": "Post Bop",
+        "label": "Blue Note",
+        "cover": "albums/hill-black-fire/cover-front-10.JPG",
+        "thumbnails": ["albums/hill-black-fire/cover-front-10.JPG","albums/hill-black-fire/cover-back-10.JPG","albums/hill-black-fire/inner-sleeve-1-10.JPG","albums/hill-black-fire/inner-sleeve-2-10.JPG","albums/hill-black-fire/vinyl-1-10.JPG","albums/hill-black-fire/vinyl-2-10.JPG"],
+        "highres": ["albums/hill-black-fire/cover-front-70.JPG","albums/hill-black-fire/cover-back-70.JPG","albums/hill-black-fire/inner-sleeve-1-70.JPG","albums/hill-black-fire/inner-sleeve-2-70.JPG","albums/hill-black-fire/vinyl-1-70.JPG","albums/hill-black-fire/vinyl-2-70.JPG"],
+        "info": "...",
+        "release": "https://www.discogs.com/release/1114174-Andrew-Hill-Black-Fire"
+    }, 
+    {
         "id": "gordon-go",
         "title": "Go!",
         "artist": "Dexter Gordon",
