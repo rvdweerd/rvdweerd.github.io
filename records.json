@@ -11,7 +11,7 @@
         "highres": ["albums/gordon-go/cover-front-70.JPG","albums/gordon-go/cover-back-70.JPG","albums/gordon-go/BL-corner-70.JPG","albums/gordon-go/inner-sleeve-1-70.JPG","albums/gordon-go/inner-sleeve-2-70.JPG","albums/gordon-go/vinyl-1-70.JPG","albums/gordon-go/vinyl-2-70.JPG"],
         "info": "Vinyl in excellent condition, plays beautifully, strong VG+. Sleeve is in good shape, VG. It has a small name stamp on top at the back (from my dad). Sleeve has two minor corner bumps. Spine is good, with minor damage at top and bottom (last digit of the \"Blue note 4112\" marking at the bottom of the spine is illegible). Inner sleeve edges have been taped.",
         "release": "https://www.discogs.com/release/3380665-Dexter-Gordon-Go"
-    },
+    },    
     {
         "id": "nichols-trio",
         "title": "Herbie Nichols Trio",
@@ -26,17 +26,17 @@
         "release": "https://www.discogs.com/release/2064249-Herbie-Nichols-Trio-Herbie-Nichols-Trio"
     },
     {
-        "id": "drew-under",
-        "title": "Undercurrent",
-        "artist": "Kenny Drew",
-        "year": "1961",
-        "genre": "Bop",
+        "id": "mclean-dest",
+        "title": "Destionation... Out!",
+        "artist": "Jackie McLean",
+        "year": "1964",
+        "genre": "Hard Bop, Post Bop",
         "label": "Blue Note",
-        "cover": "albums/drew-under/cover-front-10.JPG",
-        "thumbnails": ["albums/drew-under/cover-front-10.JPG","albums/drew-under/cover-back-10.JPG","albums/drew-under/inner-sleeve-1-10.JPG","albums/drew-under/innder-sleeve-2-10.JPG","albums/drew-under/vinyl-1-10.JPG","albums/drew-under/vinyl-2-10.JPG"],
-        "highres": ["albums/drew-under/cover-front-70.JPG","albums/drew-under/cover-back-70.JPG","albums/drew-under/inner-sleeve-1-70.JPG","albums/drew-under/innder-sleeve-2-70.JPG","albums/drew-under/vinyl-1-70.JPG","albums/drew-under/vinyl-2-70.JPG"],
-        "info": "Information upon request",
-        "release": "https://www.discogs.com/release/3382325-Kenny-Drew-Undercurrent"
+        "cover": "albums/mclean-destination-out/cover-front-10.JPG",
+        "thumbnails": ["albums/mclean-destination-out/cover-front-10.JPG","albums/mclean-destination-out/cover-back-10.JPG","albums/mclean-destination-out/BL-corner-10.JPG","albums/mclean-destination-out/inner-sleeve-1-10.JPG","albums/mclean-destination-out/inner-sleeve-2-10.JPG","albums/mclean-destination-out/vinyl-1-10.JPG","albums/mclean-destination-out/vinyl-2-10.JPG"],
+        "highres": ["albums/mclean-destination-out/cover-front-70.JPG","albums/mclean-destination-out/cover-back-70.JPG","albums/mclean-destination-out/BL-corner-70.JPG","albums/mclean-destination-out/inner-sleeve-1-70.JPG","albums/mclean-destination-out/inner-sleeve-2-70.JPG","albums/mclean-destination-out/vinyl-1-70.JPG","albums/mclean-destination-out/vinyl-2-70.JPG"],
+        "info": "..",
+        "release": "https://www.discogs.com/release/1189824-Jackie-McLean-Destination-Out"
     },
     {
         "id": "coltr-lovesup",
@@ -50,5 +50,18 @@
         "highres": ["albums/coltrane-love-supreme/cover-front-70.JPG","albums/coltrane-love-supreme/cover-back-70.JPG","albums/coltrane-love-supreme/cover-inner-70.JPG","albums/coltrane-love-supreme/inner-sleeve-1-70.JPG","albums/coltrane-love-supreme/inner-sleeve-2-70.JPG","albums/coltrane-love-supreme/vinyl-1-70.JPG","albums/coltrane-love-supreme/vinyl-2-70.JPG"],
         "info": "Vinyl in solid condition, VG+. Well taken care of plays beautifully with some hairlines/handling scuffs that don't affect play. Some spindle marks. Sleeve VG+, in very good shape except for a small stain bottom right of the back cover and two splits on the inner sleeve. ",
         "release": "https://www.discogs.com/release/857505-John-Coltrane-A-Love-Supreme"
+    },    
+    {
+        "id": "drew-under",
+        "title": "Undercurrent",
+        "artist": "Kenny Drew",
+        "year": "1961",
+        "genre": "Bop",
+        "label": "Blue Note",
+        "cover": "albums/drew-under/cover-front-10.JPG",
+        "thumbnails": ["albums/drew-under/cover-front-10.JPG","albums/drew-under/cover-back-10.JPG","albums/drew-under/inner-sleeve-1-10.JPG","albums/drew-under/innder-sleeve-2-10.JPG","albums/drew-under/vinyl-1-10.JPG","albums/drew-under/vinyl-2-10.JPG"],
+        "highres": ["albums/drew-under/cover-front-70.JPG","albums/drew-under/cover-back-70.JPG","albums/drew-under/inner-sleeve-1-70.JPG","albums/drew-under/innder-sleeve-2-70.JPG","albums/drew-under/vinyl-1-70.JPG","albums/drew-under/vinyl-2-70.JPG"],
+        "info": "Information upon request",
+        "release": "https://www.discogs.com/release/3382325-Kenny-Drew-Undercurrent"
     }
 ]
