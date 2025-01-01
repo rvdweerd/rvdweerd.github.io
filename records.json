@@ -50,7 +50,20 @@
         "highres": ["albums/coltrane-love-supreme/cover-front-70.JPG","albums/coltrane-love-supreme/cover-back-70.JPG","albums/coltrane-love-supreme/cover-inner-70.JPG","albums/coltrane-love-supreme/inner-sleeve-1-70.JPG","albums/coltrane-love-supreme/inner-sleeve-2-70.JPG","albums/coltrane-love-supreme/vinyl-1-70.JPG","albums/coltrane-love-supreme/vinyl-2-70.JPG"],
         "info": "Vinyl in solid condition, VG+. Well taken care of plays beautifully with some hairlines/handling scuffs that don't affect play. Some spindle marks. Sleeve VG+, in very good shape except for a small stain bottom right of the back cover and two splits on the inner sleeve. ",
         "release": "https://www.discogs.com/release/857505-John-Coltrane-A-Love-Supreme"
-    },    
+    },
+    {
+        "id": "coltr-quart",
+        "title": "Coltrane",
+        "artist": "The John Coltrane Quartette",
+        "year": "1962",
+        "genre": "Free Jazz, Post Bop, Modal",
+        "label": "Impulse!",
+        "cover": "albums/coltrane-quart/cover-front-10.JPG",
+        "thumbnails": ["albums/coltrane-quart/cover-front-10.JPG","albums/coltrane-quart/cover-back-10.JPG","albums/coltrane-quart/cover-inner-10.JPG","albums/coltrane-quart/inner-sleeve-1-10.JPG","albums/coltrane-quart/inner-sleeve-2-10.JPG","albums/coltrane-quart/vinyl-1-10.JPG","albums/coltrane-quart/vinyl-2-10.JPG"],
+        "highres": ["albums/coltrane-quart/cover-front-70.JPG","albums/coltrane-quart/cover-back-70.JPG","albums/coltrane-quart/cover-inner-70.JPG","albums/coltrane-quart/inner-sleeve-1-70.JPG","albums/coltrane-quart/inner-sleeve-2-70.JPG","albums/coltrane-quart/vinyl-1-70.JPG","albums/coltrane-quart/vinyl-2-70.JPG"],
+        "info": "..",
+        "release": "https://www.discogs.com/release/875495-The-John-Coltrane-Quartette-Coltrane"
+    },
     {
         "id": "drew-under",
         "title": "Undercurrent",
