@@ -31,6 +31,14 @@ footer {
     width: 100%;
 }
 
+/* Smaller footer for mobile devices */
+@media (max-width: 768px) {
+    footer {
+        padding: 0.5rem; /* Reduce padding */
+        font-size: 0.8rem; /* Reduce font size */
+    }
+}
+
 #collection-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
