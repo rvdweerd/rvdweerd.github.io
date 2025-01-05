@@ -90,7 +90,20 @@
         "info": "Information upon request",
         "release": "https://www.discogs.com/release/3382325-Kenny-Drew-Undercurrent"
     },
-        {
+    {
+        "id": "haynes-outof",
+        "title": "Out of the Afternoon",
+        "artist": "Roy Haynes Quartet",
+        "year": "1962",
+        "genre": "Bop, Hard Bop",
+        "label": "Impulse!",
+        "cover": "albums/haynes-out-of/cover-front-10.JPG",
+        "thumbnails": ["albums/haynes-out-of/cover-front-10.JPG","albums/haynes-out-of/cover-inner-10.JPG","albums/haynes-out-of/cover-back-10.JPG","albums/haynes-out-of/inner-sleeve-1-10.JPG","albums/haynes-out-of/innder-sleeve-2-10.JPG","albums/haynes-out-of/vinyl-1-10.JPG","albums/haynes-out-of/vinyl-2-10.JPG"],
+        "highres": ["albums/haynes-out-of/cover-front-70.JPG","albums/haynes-out-of/cover-inner-70.JPG","albums/haynes-out-of/cover-back-70.JPG","albums/haynes-out-of/inner-sleeve-1-70.JPG","albums/haynes-out-of/innder-sleeve-2-70.JPG","albums/haynes-out-of/vinyl-1-70.JPG","albums/haynes-out-of/vinyl-2-70.JPG"],
+        "info": "Information upon request",
+        "release": "https://www.discogs.com/release/2118841-Roy-Haynes-Quartet-Out-Of-The-Afternoon"
+    },
+    {
         "id": "lateef-eastern",
         "title": "Eastern Sounds",
         "artist": "Yusef Lateef",
