@@ -24,7 +24,20 @@
         "highres": ["albums/gordon-go/cover-front-70.JPG","albums/gordon-go/cover-back-70.JPG","albums/gordon-go/BL-corner-70.JPG","albums/gordon-go/inner-sleeve-1-70.JPG","albums/gordon-go/inner-sleeve-2-70.JPG","albums/gordon-go/vinyl-1-70.JPG","albums/gordon-go/vinyl-2-70.JPG"],
         "info": "Vinyl in excellent condition, plays beautifully, strong VG+. Sleeve is in good shape, VG. It has a small name stamp on top at the back (from my dad). Sleeve has two minor corner bumps. Spine is good, with some damage at top and bottom (last digit of the \"Blue note 4112\" marking at the bottom of the spine is illegible). Inner sleeve edges have been taped.",
         "release": "https://www.discogs.com/release/3380665-Dexter-Gordon-Go"
-    },    
+    },
+    {
+        "id": "first-moderns",
+        "title": "The First Moderns",
+        "artist": "Dizzy Gillespie et al",
+        "year": "1958",
+        "genre": "Bop, Swing",
+        "label": "Esquire",
+        "cover": "albums/first-moderns/cover-front-10.JPG",
+        "thumbnails": ["albums/first-moderns/cover-front-10.JPG","albums/first-moderns/cover-back-10.JPG","albums/first-moderns/BL-corner-10.JPG","albums/first-moderns/inner-sleeve-1-10.JPG","albums/first-moderns/vinyl-1-10.JPG","albums/first-moderns/vinyl-2-10.JPG"],
+        "highres": ["albums/first-moderns/cover-front-70.JPG","albums/first-moderns/cover-back-70.JPG","albums/first-moderns/BL-corner-70.JPG","albums/first-moderns/inner-sleeve-1-70.JPG","albums/first-moderns/vinyl-1-70.JPG","albums/first-moderns/vinyl-2-70.JPG"],
+        "info": "Vinyl in excellent condition, plays beautifully, strong VG+. Sleeve is in good shape, VG. It has a small name stamp on top at the back (from my dad). Sleeve has two minor corner bumps. Spine is good, with some damage at top and bottom (last digit of the \"Blue note 4112\" marking at the bottom of the spine is illegible). Inner sleeve edges have been taped.",
+        "release": "https://www.discogs.com/release/2812151-Dizzy-Gillespie-Miles-Davis-Fats-Navarro-Kenny-Dorham-The-First-Moderns"
+    }, 
     {
         "id": "nichols-trio",
         "title": "Herbie Nichols Trio",
