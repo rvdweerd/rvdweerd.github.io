@@ -124,8 +124,8 @@
         "genre": "Hard Bop",
         "label": "Blue Note",
         "cover": "albums/rollins-vol2/cover-front-10.JPG",
-        "thumbnails": ["albums/rollins-vol2/cover-front-10.JPG","albums/rollins-vol2/conver-back-10.JPG","albums/rollins-vol2/cover-side-10.JPG","albums/rollins-vol2/inner-sleeve-1-10.JPG","albums/rollins-vol2/inner-sleeve-2-10.JPG","albums/rollins-vol2/vinyl-1-10.JPG","albums/rollins-vol2/vinyl-2-10.JPG"],
-        "highres": ["albums/rollins-vol2/cover-front-70.JPG","albums/rollins-vol2/conver-back-70.JPG","albums/rollins-vol2/cover-side-70.JPG","albums/rollins-vol2/inner-sleeve-1-70.JPG","albums/rollins-vol2/inner-sleeve-2-70.JPG","albums/rollins-vol2/vinyl-1-70.JPG","albums/rollins-vol2/vinyl-2-70.JPG"],
+        "thumbnails": ["albums/rollins-vol2/cover-front-10.JPG","albums/rollins-vol2/cover-back-10.JPG","albums/rollins-vol2/cover-side-10.JPG","albums/rollins-vol2/inner-sleeve-1-10.JPG","albums/rollins-vol2/inner-sleeve-2-10.JPG","albums/rollins-vol2/vinyl-1-10.JPG","albums/rollins-vol2/vinyl-2-10.JPG"],
+        "highres": ["albums/rollins-vol2/cover-front-70.JPG","albums/rollins-vol2/cover-back-70.JPG","albums/rollins-vol2/cover-side-70.JPG","albums/rollins-vol2/inner-sleeve-1-70.JPG","albums/rollins-vol2/inner-sleeve-2-70.JPG","albums/rollins-vol2/vinyl-1-70.JPG","albums/rollins-vol2/vinyl-2-70.JPG"],
         "info": "Vinyl very well taken care of, NM/M-. Sleeve is in great shape, VG+ with small corner dent bottom left and damaged patch 1 cm mid spine.",
         "release": "https://www.discogs.com/release/15583358-Sonny-Rollins-Volume-2"
     },
