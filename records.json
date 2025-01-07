@@ -78,6 +78,19 @@
         "release": "https://www.discogs.com/release/857505-John-Coltrane-A-Love-Supreme"
     },
     {
+        "id": "coltr-bt",
+        "title": "Blue Train",
+        "artist": "John Coltrane",
+        "year": "1964",
+        "genre": "Hard Bop",
+        "label": "Blue Note",
+        "cover": "albums/coltrane-bt/cover-front-10.JPG",
+        "thumbnails": ["albums/coltrane-bt/cover-front-10.JPG","albums/coltrane-bt/cover-back-10.JPG","albums/coltrane-bt/cover-inner-10.JPG","albums/coltrane-bt/cover-side-10.JPG","albums/coltrane-bt/inner-sleeve-1-10.JPG","albums/coltrane-bt/inner-sleeve-2-10.JPG","albums/coltrane-bt/vinyl-1-10.JPG","albums/coltrane-love-supreme/vinyl-2-10.JPG"],
+        "highres": ["albums/coltrane-bt/cover-front-70.JPG","albums/coltrane-bt/cover-back-70.JPG","albums/coltrane-bt/cover-inner-70.JPG","albums/coltrane-bt/cover-side-10.JPG","albums/coltrane-bt/inner-sleeve-1-70.JPG","albums/coltrane-bt/inner-sleeve-2-70.JPG","albums/coltrane-bt/vinyl-1-70.JPG","albums/coltrane-love-supreme/vinyl-2-70.JPG"],
+        "info": "Vinyl in solid condition, VG+. Only ligt hairlines, cleaning recommended on side 1. Sleeve VG+, in very good shape except for two 1 cm marks on the top half of the spine. Inner sleeve creased but seams are good.",
+        "release": "https://www.discogs.com/release/8020972-John-Coltrane-Blue-Train"
+    },
+    {
         "id": "coltr-quart",
         "title": "Coltrane",
         "artist": "The John Coltrane Quartette",
