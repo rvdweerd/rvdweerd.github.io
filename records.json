@@ -11,6 +11,19 @@
         "highres": ["albums/hill-black-fire/cover-front-70.JPG","albums/hill-black-fire/cover- back-70.JPG","albums/hill-black-fire/inner-sleeve-1-70.JPG","albums/hill-black-fire/inner-sleeve-2-70.JPG","albums/hill-black-fire/vinyl-1-70.JPG","albums/hill-black-fire/vinyl-2-70.JPG"],
         "info": "Vinyl in excellent condition, plays beautifully, strong VG+. Sleeve VG+, some usage patterns and stains visible on front and back, spine and edges are fine. Small price tag top left of back cover. Inner sleeve has one seam split but straight & clean.",
         "release": "https://www.discogs.com/release/1114174-Andrew-Hill-Black-Fire"
+    },
+    {
+        "id": "booker-out",
+        "title": "Out Front",
+        "artist": "Booker Little",
+        "year": "1961",
+        "genre": "Hard Bop",
+        "label": "Candid",
+        "cover": "albums/booker-out/cover-front-10.JPG",
+        "thumbnails": ["albums/booker-out/cover-front-10.JPG","albums/booker-out/cover-back-10.JPG","albums/booker-out/cover-side-10.JPG","albums/booker-out/vinyl-1-10.JPG","albums/booker-out/vinyl-2-10.JPG"],
+        "highres": ["albums/booker-out/cover-front-70.JPG","albums/booker-out/cover-back-70.JPG","albums/booker-out/cover-side-70.JPG","albums/booker-out/vinyl-1-70.JPG","albums/booker-out/vinyl-2-70.JPG"],
+        "info": "Vinyl VG+, light scuffs and hairlines, cleaning recommended. Sleeve VG+, only minor irregularities. Generic inner-sleeve (original).",
+        "release": "https://www.discogs.com/release/4451013-Booker-Little-Out-Front"
     }, 
     {
         "id": "gordon-go",
