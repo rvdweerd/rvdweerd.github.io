@@ -76,6 +76,12 @@ function openModal(record) {
         <p>${info}</p>`;
 
     modalBody.innerHTML = content;
+    // Track the record click event in Google Analytics
+    gtag('event', 'record_click', {
+        'event_category': 'Records',
+        'event_label': title,
+        'value': 1
+    });
 }
 
 // Open high-resolution image modal
