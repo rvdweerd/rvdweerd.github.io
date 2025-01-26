@@ -130,6 +130,19 @@
         "release": "https://www.discogs.com/release/3382325-Kenny-Drew-Undercurrent"
     },
     {
+        "id": "davis-bags",
+        "title": "Bags Groove",
+        "artist": "Miles Davis",
+        "year": "1958",
+        "genre": "Hard Bop",
+        "label": "Prestige",
+        "cover": "albums/davis-bags/cover-front-10.JPG",
+        "thumbnails": ["albums/davis-bags/cover-front-10.JPG","albums/davis-bags/cover-back-10.JPG","albums/davis-bags/cover-side-10.JPG","albums/davis-bags/vinyl-1-10.JPG","albums/davis-bags/vinyl-2-10.JPG"],
+        "highres": ["albums/davis-bags/cover-front-70.JPG","albums/davis-bags/cover-back-70.JPG","albums/davis-bags/cover-side-70.JPG","albums/davis-bags/vinyl-1-70.JPG","albums/davis-bags/vinyl-2-70.JPG"],
+        "info": "Record well preserved, plays strong VG+, some aging spots on the labels. Sleeve clean VG+, small dent in left bottom corner, name stamp top of back side.",
+        "release": "https://www.discogs.com/release/3985122-Miles-Davis-Bags-Groove"
+    },    
+    {
         "id": "haynes-outof",
         "title": "Out of the Afternoon",
         "artist": "Roy Haynes Quartet",
