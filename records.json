@@ -104,6 +104,19 @@
         "release": "https://www.discogs.com/release/8020972-John-Coltrane-Blue-Train"
     },
     {
+        "id": "coltr-giant",
+        "title": "Giant Steps",
+        "artist": "John Coltrane",
+        "year": "1962",
+        "genre": "Hard Bop",
+        "label": "Atlantic",
+        "cover": "albums/coltrane-giant/cover-front-10.JPG",
+        "thumbnails": ["albums/coltrane-giant/cover-front-10.JPG","albums/coltrane-giant/cover-back-10.JPG","albums/coltrane-giant/inner-sleeve-1-10.JPG","albums/coltrane-giant/inner-sleeve-2-10.JPG","albums/coltrane-giant/vinyl-1-10.JPG","albums/coltrane-giant/vinyl-2-10.JPG"],
+        "highres": ["albums/coltrane-giant/cover-front-70.JPG","albums/coltrane-giant/cover-back-70.JPG","albums/coltrane-giant/inner-sleeve-1-70.JPG","albums/coltrane-giant/inner-sleeve-2-70.JPG","albums/coltrane-giant/vinyl-1-70.JPG","albums/coltrane-giant/vinyl-2-70.JPG"],
+        "info": "Vinyl is strong VG+ only a few hairlines. Sleeve is a fine VG+ with only a small tear bottom left corner of backside and a small store sticker bottom right of backside. Original inner sleeve but with one split seam.",
+        "release": "https://www.discogs.com/release/4703710-John-Coltrane-Giant-Steps"
+    },
+    {
         "id": "coltr-quart",
         "title": "Coltrane",
         "artist": "The John Coltrane Quartette",
