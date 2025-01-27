@@ -24,7 +24,20 @@
         "highres": ["albums/booker-out/cover-front-70.JPG","albums/booker-out/cover-back-70.JPG","albums/booker-out/cover-side-70.JPG","albums/booker-out/vinyl-1-70.JPG","albums/booker-out/vinyl-2-70.JPG"],
         "info": "Vinyl VG+, light scuffs and hairlines, cleaning recommended. Sleeve VG+, only minor irregularities. Hand written name and code, small store tag. Generic inner-sleeve (original).",
         "release": "https://www.discogs.com/release/4451013-Booker-Little-Out-Front"
-    }, 
+    },
+    {
+        "id": "mingus",
+        "title": "Mingus Mingus Mingus Mingus",
+        "artist": "Charles Mingus",
+        "year": "1964",
+        "genre": "Post Bop",
+        "label": "Impulse!",
+        "cover": "albums/mingus/cover-front-10.JPG",
+        "thumbnails": ["albums/mingus/cover-front-10.JPG","albums/mingus/cover-back-10.JPG","albums/mingus/cover-side-10.JPG","albums/mingus/cover-inner-10.JPG","albums/mingus/inner-sleeve-1-10.JPG","albums/mingus/inner-sleeve-2-10.JPG","albums/mingus/vinyl-1-10.JPG","albums/mingus/vinyl-2-10.JPG"],
+        "highres": ["albums/mingus/cover-front-70.JPG","albums/mingus/cover-back-70.JPG","albums/mingus/cover-side-70.JPG","albums/mingus/cover-inner-70.JPG","albums/mingus/inner-sleeve-1-70.JPG","albums/mingus/inner-sleeve-2-70.JPG","albums/mingus/vinyl-1-70.JPG","albums/mingus/vinyl-2-70.JPG"],
+        "info": "Vinyl in great shape, strong VG+. Some hairlines, including one across B side but play is not affected. Sleeve NM, excellent with original inner sleeves in tact.",
+        "release": "https://www.discogs.com/release/2180283-Mingus-Mingus-Mingus-Mingus-Mingus-Mingus"
+    },
     {
         "id": "gordon-go",
         "title": "Go!",
@@ -100,7 +113,7 @@
         "cover": "albums/coltrane-bt/cover-front-10.JPG",
         "thumbnails": ["albums/coltrane-bt/cover-front-10.JPG","albums/coltrane-bt/cover-back-10.JPG","albums/coltrane-bt/cover-side-10.JPG","albums/coltrane-bt/inner-sleeve-1-10.JPG","albums/coltrane-bt/inner-sleeve-2-10.JPG","albums/coltrane-bt/vinyl-1-10.JPG","albums/coltrane-bt/vinyl-2-10.JPG"],
         "highres": ["albums/coltrane-bt/cover-front-70.JPG","albums/coltrane-bt/cover-back-70.JPG","albums/coltrane-bt/cover-side-70.JPG","albums/coltrane-bt/inner-sleeve-1-70.JPG","albums/coltrane-bt/inner-sleeve-2-70.JPG","albums/coltrane-bt/vinyl-1-70.JPG","albums/coltrane-bt/vinyl-2-70.JPG"],
-        "info": "Vinyl in solid condition, VG+. Only ligt hairlines, cleaning recommended on side 1. Sleeve VG+, in very good shape except for two 1 cm marks on the top half of the spine. Inner sleeve corners creased but seams are good.",
+        "info": "Vinyl in solid condition, VG+. Only light hairlines, cleaning recommended on side 1. Sleeve VG+, in very good shape except for two 1 cm marks on the top half of the spine. Inner sleeve corners creased but seams are good.",
         "release": "https://www.discogs.com/release/8020972-John-Coltrane-Blue-Train"
     },
     {
