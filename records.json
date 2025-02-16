@@ -91,6 +91,19 @@
         "release": "https://www.discogs.com/release/1189824-Jackie-McLean-Destination-Out"
     },
     {
+        "id": "coltr-ballads",
+        "title": "Ballads",
+        "artist": "John Coltrane Quartet",
+        "year": "1965",
+        "genre": "Modal, Cool Jazz",
+        "label": "Impulse!",
+        "cover": "albums/coltrane-ballads/cover-front-10.JPG",
+        "thumbnails": ["albums/coltrane-ballads/cover-front-10.JPG","albums/coltrane-ballads/cover-back-10.JPG","albums/coltrane-ballads/cover-inner-1-10.JPG","albums/coltrane-ballads/cover-inner-2-10.JPG","albums/coltrane-ballads/inner-sleeve-1-10.JPG","albums/coltrane-ballads/inner-sleeve-2-10.JPG","albums/coltrane-ballads/vinyl-1-10.JPG","albums/coltrane-ballads/vinyl-2-10.JPG"],
+        "highres": ["albums/coltrane-ballads/cover-front-70.JPG","albums/coltrane-ballads/cover-bacl-70.JPG","albums/coltrane-ballads/cover-inner-1-70.JPG","albums/coltrane-ballads/cover-inner-2-70.JPG","albums/coltrane-ballads/inner-sleeve-1-70.JPG","albums/coltrane-ballads/inner-sleeve-2-70.JPG","albums/coltrane-ballads/vinyl-1-70.JPG","albums/coltrane-ballads/vinyl-2-70.JPG"],
+        "info": "Record in solid condition but VG due to a defect: B-side of this pressing is off-center (inaudible or only subtle). Well taken care of, plays beautifully throughout A-side but with light surface noise on B-side part IV psalm. Some small hairlines/handling scuffs that don't affect play. Minor spindle marks. Sleeve NM, in top shape except for two splits on the (original ABC company) inner sleeve.",
+        "release": "https://www.discogs.com/release/14272346-John-Coltrane-Quartet-Ballads"
+    },
+    {
         "id": "coltr-lovesup",
         "title": "A Love Supreme (SOLD)",
         "artist": "John Coltrane",
