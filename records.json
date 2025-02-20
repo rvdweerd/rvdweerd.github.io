@@ -104,6 +104,19 @@
         "release": "https://www.discogs.com/release/14272346-John-Coltrane-Quartet-Ballads"
     },
     {
+        "id": "coltr-impressions",
+        "title": "Impressions",
+        "artist": "John Coltrane",
+        "year": "1963",
+        "genre": "Free Jazz, Post Bop, Modal",
+        "label": "Impulse!",
+        "cover": "albums/coltrane-impressions/cover-front-10.JPG",
+        "thumbnails": ["albums/coltrane-impressions/cover-front-10.JPG","albums/coltrane-impressions/cover-back-10.JPG","albums/coltrane-impressions/cover-inner-1-10.JPG","albums/coltrane-impressions/cover-inner-2-10.JPG","albums/coltrane-impressions/inner-sleeve-1-10.JPG","albums/coltrane-impressions/inner-sleeve-2-10.JPG","albums/coltrane-impressions/vinyl-1-10.JPG","albums/coltrane-impressions/vinyl-2-10.JPG"],
+        "highres": ["albums/coltrane-impressions/cover-front-70.JPG","albums/coltrane-impressions/cover-back-70.JPG","albums/coltrane-impressions/cover-inner-1-70.JPG","albums/coltrane-impressions/cover-inner-2-70.JPG","albums/coltrane-impressions/inner-sleeve-1-70.JPG","albums/coltrane-impressions/inner-sleeve-2-70.JPG","albums/coltrane-impressions/vinyl-1-70.JPG","albums/coltrane-impressions/vinyl-2-70.JPG"],
+        "info": "Record and Sleeve both strong VG+. Well taken care of, plays beautifully throughout, some light marks and hairlines that don't affect play.",
+        "release": "https://www.discogs.com/release/1040069-John-Coltrane-Impressions"
+    },
+    {
         "id": "coltr-lovesup",
         "title": "A Love Supreme (SOLD)",
         "artist": "John Coltrane",
