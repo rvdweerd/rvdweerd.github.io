@@ -91,6 +91,19 @@
         "release": "https://www.discogs.com/release/1189824-Jackie-McLean-Destination-Out"
     },
     {
+        "id": "woods-conflict",
+        "title": "Conflict",
+        "artist": "Jimmy Woods Sextet",
+        "year": "1963",
+        "genre": "Post Bop",
+        "label": "Contemporary Records",
+        "cover": "albums/woods-conflict/cover-front-10.JPG",
+        "thumbnails": ["albums/woods-conflict/cover-front-10.JPG","albums/woods-conflict/cover-back-10.JPG","albums/woods-conflict/vinyl-1-10.JPG","albums/woods-conflict/vinyl-2-10.JPG"],
+        "highres": ["albums/woods-conflict/cover-front-70.JPG","albums/woods-conflict/cover-back-70.JPG","albums/woods-conflict/vinyl-1-70.JPG","albums/woods-conflict/vinyl-2-70.JPG"],
+        "info": "Record is impecable. Sleeve front is good with only minor ring wear and some small spots. Backside has a 5cm tear from exit towards center (about 1/4 down from top), some age coloring on the back (in particular the top and bottom flaps).",
+        "release": "https://www.discogs.com/release/6143156-Jimmy-Woods-Sextet-Featuring-Elvin-Jones-Conflict"
+    },    
+    {
         "id": "coltr-ballads",
         "title": "Ballads",
         "artist": "John Coltrane Quartet",
