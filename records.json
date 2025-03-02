@@ -65,6 +65,19 @@
         "release": "https://www.discogs.com/release/2812151-Dizzy-Gillespie-Miles-Davis-Fats-Navarro-Kenny-Dorham-The-First-Moderns"
     }, 
     {
+        "id": "dolphy-5spot",
+        "title": "At the Five Spot Volume 2",
+        "artist": "Eric Dolphy",
+        "year": "1963",
+        "genre": "Post Bop",
+        "label": "Prestige",
+        "cover": "albums/dolphy-5spot/cover-front-10.JPG",
+        "thumbnails": ["albums/dolphy-5spot/cover-front-10.JPG","albums/dolphy-5spot/cover-back-10.JPG","albums/dolphy-5spot/cover-spine-10.JPG","albums/dolphy-5spot/cover-side-10.JPG","albums/dolphy-5spot/vinyl-1-10.JPG","albums/dolphy-5spot/vinyl-2-10.JPG"],
+        "highres": ["albums/dolphy-5spot/cover-front-70.JPG","albums/dolphy-5spot/cover-back-70.JPG","albums/dolphy-5spot/cover-spine-70.JPG","albums/dolphy-5spot/cover-side-70.JPG","albums/dolphy-5spot/vinyl-1-70.JPG","albums/dolphy-5spot/vinyl-2-70.JPG"],
+        "info": "Record has light scuffs and hairlines that don't affect play. Lightly subdued with light surface noise audibe during quiet parts, no cracks or pops, VG. Sleeve is solid, top left corner wear (1cm), damaged part of edge bottom center (2.5cm), light laminate wear at exit, spine is perfect.",
+        "release": "https://www.discogs.com/release/4229856-Eric-Dolphy-At-The-Five-Spot-Volume-2"
+    },
+    {
         "id": "nichols-trio",
         "title": "Herbie Nichols Trio",
         "artist": "Herbie Nichols",
