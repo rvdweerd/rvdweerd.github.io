@@ -273,6 +273,19 @@
         "release": "https://www.discogs.com/release/13467720-Yusef-Lateef-Eastern-Sounds"
     },
     {
+        "id": "lateef-into",
+        "title": "Into Something",
+        "artist": "Yudef Lateef",
+        "year": "1962",
+        "genre": "Hard Bop, Modal",
+        "label": "New Jazz",
+        "cover": "albums/lateef-into/cover-front-10.JPG",
+        "thumbnails": ["albums/lateef-into/cover-front-10.JPG","albums/lateef-into/cover-back-10.JPG","albums/lateef-into/cover-side-10.JPG","albums/lateef-into/vinyl-1-10.JPG","albums/lateef-into/vinyl-2-10.JPG"],
+        "highres": ["albums/lateef-into/cover-front-70.JPG","albums/lateef-into/cover-back-70.JPG","albums/lateef-into/cover-side-70.JPG","albums/lateef-into/vinyl-1-70.JPG","albums/lateef-into/vinyl-2-70.JPG"],
+        "info": "Record VG+, with great dynamics and depth. Several handling marks but none affect play. Some surface noise on A side, clean B side with an occasional light crack, no pops. Sleeve VG due to paper wear on the spine (no splits), color aging and light shelfwear.",
+        "release": "https://www.discogs.com/release/1155408-Yusef-Lateef-Into-Something"
+    },
+    {
         "id": "pf-wall",
         "title": "The Wall",
         "artist": "Pink Floyd",
