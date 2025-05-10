@@ -287,7 +287,7 @@
     },
     {
         "id": "pf-wall",
-        "title": "The Wall",
+        "title": "The Wall (SOLD)",
         "artist": "Pink Floyd",
         "year": "1979",
         "genre": "Rock",
@@ -295,7 +295,7 @@
         "cover": "albums/pf-wall/cover-front-10.JPG",
         "thumbnails": ["albums/pf-wall/cover-front-10.JPG","albums/pf-wall/cover-back-10.JPG","albums/pf-wall/conver-side-10.JPG","albums/pf-wall/cover-inner-1-10.JPG","albums/pf-wall/cover-inner-2-10.JPG","albums/pf-wall/vinyl-1-10.JPG","albums/pf-wall/vinyl-2-10.JPG","albums/pf-wall/vinyl-3-10.JPG","albums/pf-wall/vinyl-4-10.JPG","albums/pf-wall/inner-sleeve-1-10.JPG","albums/pf-wall/inner-sleeve-2-10.JPG","albums/pf-wall/inner-sleeve-3-10.JPG","albums/pf-wall/inner-sleeve-4-10.JPG"],
         "highres": ["albums/pf-wall/cover-front-70.JPG","albums/pf-wall/cover-back-70.JPG","albums/pf-wall/conver-side-70.JPG","albums/pf-wall/cover-inner-1-70.JPG","albums/pf-wall/cover-inner-2-70.JPG","albums/pf-wall/vinyl-1-70.JPG","albums/pf-wall/vinyl-2-70.JPG","albums/pf-wall/vinyl-3-70.JPG","albums/pf-wall/vinyl-4-70.JPG","albums/pf-wall/inner-sleeve-1-70.JPG","albums/pf-wall/inner-sleeve-2-70.JPG","albums/pf-wall/inner-sleeve-3-70.JPG","albums/pf-wall/inner-sleeve-4-70.JPG"],
-        "info": "Records are impecable, light hairline on side 3. Sleeve has no front sticker, military mark and minor dent bottom left of backside. Some light creases and small foxing spots on the inners. Side 4 spindle ring is oval.",
+        "info": "Records are impecable, light hairline on side 3. Sleeve has no front sticker, military mark and minor dent bottom left of backside. Some light creases and small foxing spots on the inners. Side 4 spindle ring is oval (vinyl hole is fine). Deadwax coding: Side 1: PAL-36184-1F TML-X Side 2: PBL-36184-1E TML-S Side 3: PAL-36185-1F TML-S Side 4: PBL-36185-1F TML-X.",
         "release": "https://www.discogs.com/release/14806231-Pink-Floyd-The-Wall"
     }    
 ]
