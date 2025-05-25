@@ -78,6 +78,19 @@
         "release": "https://www.discogs.com/release/4229856-Eric-Dolphy-At-The-Five-Spot-Volume-2"
     },
     {
+        "id": "griffin-sextet",
+        "title": "Johnny Griffin Sextet",
+        "artist": "Johnny Griffin Sextet",
+        "year": "1958",
+        "genre": "Hard Bop",
+        "label": "Riverside Records",
+        "cover": "albums/griffin-sextet/cover-front-10.JPG",
+        "thumbnails": ["albums/griffin-sextet/cover-front-10.JPG","albums/griffin-sextet/cover-back-10.JPG","albums/griffin-sextet/cover-side-10.JPG","albums/griffin-sextet/vinyl-1-10.JPG","albums/griffin-sextet/vinyl-2-10.JPG"],
+        "highres": ["albums/griffin-sextet/cover-front-70.JPG","albums/griffin-sextet/cover-back-70.JPG","albums/griffin-sextet/cover-side-70.JPG","albums/griffin-sextet/vinyl-1-70.JPG","albums/griffin-sextet/vinyl-2-70.JPG"],
+        "info": "Record is strong VG+ with some hairlines that don't affect play. Cover G+ has general shelfwear, top and bottom seams are taped, spine in tact but paper damaged with text only partly readible. Backside is good, stamped number 4 and name written TR. Overall very decent.",
+        "release": "https://www.discogs.com/release/24132044-Johnny-Griffin-Sextet-Johnny-Griffin-Sextet"
+    },
+    {
         "id": "nichols-trio",
         "title": "Herbie Nichols Trio",
         "artist": "Herbie Nichols",
