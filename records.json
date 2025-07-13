@@ -105,7 +105,7 @@
     },
     {
         "id": "mclean-dest",
-        "title": "Destionation... Out!",
+        "title": "Destionation... Out! (SOLD)",
         "artist": "Jackie McLean",
         "year": "1964",
         "genre": "Hard Bop, Post Bop",
@@ -193,6 +193,19 @@
         "highres": ["albums/coltrane-giant/cover-front-70.JPG","albums/coltrane-giant/cover-back-70.JPG","albums/coltrane-giant/inner-sleeve-1-70.JPG","albums/coltrane-giant/inner-sleeve-2-70.JPG","albums/coltrane-giant/vinyl-1-70.JPG","albums/coltrane-giant/vinyl-2-70.JPG"],
         "info": "Vinyl is strong VG+ only a few hairlines. Sleeve is a fine VG+ with only a small tear bottom left corner of backside and a small store sticker bottom right of backside. Original inner sleeve but with one split seam.",
         "release": "https://www.discogs.com/release/4703710-John-Coltrane-Giant-Steps"
+    },
+    {
+        "id": "coltrane-ole",
+        "title": "Ole",
+        "artist": "John Coltrane",
+        "year": "1962",
+        "genre": "Free Jazz",
+        "label": "London Atlantic",
+        "cover": "albums/coltrane-ole/cover-front-10.JPG",
+        "thumbnails": ["albums/coltrane-ole/cover-front-10.JPG","albums/coltrane-ole/cover-back-10.JPG","albums/coltrane-ole/inner-10.JPG","albums/coltrane-ole/vinyl-1-10.JPG","albums/coltrane-ole/vinyl-2-10.JPG"],
+        "highres": ["albums/coltrane-ole/cover-front-70.JPG","albums/coltrane-ole/cover-back-70.JPG","albums/coltrane-ole/inner-70.JPG","albums/coltrane-ole/vinyl-1-70.JPG","albums/coltrane-ole/vinyl-2-70.JPG"],
+        "info": "Record plays perfectly: is strong VG+ (NM except for hairline and light handling scuffs on B side, none of which affect play). Cover VG+, with light ringwear. Front is solid, back has some stains, price tag, written name and box stamp. Age coloring. Spine and seams aer fine. Original inner.",
+        "release": "https://www.discogs.com/release/3575909-John-Coltrane-Ole-Coltrane"
     },
     {
         "id": "coltr-quart",
