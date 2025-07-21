@@ -13,6 +13,19 @@
         "release": "https://www.discogs.com/release/1114174-Andrew-Hill-Black-Fire"
     },
     {
+        "id": "evans-mb",
+        "title": "Moon Beams",
+        "artist": "The Bill Evans Trio",
+        "year": "1962",
+        "genre": "Cool Jazz",
+        "label": "Riverside Records",
+        "cover": "albums/evans-mb/cover-front-10.JPG",
+        "thumbnails": ["albums/evans-mb/cover-front-10.JPG","albums/evans-mb/cover-back-10.JPG","albums/evans-mb/cover-side-10.JPG","albums/evans-mb/vinyl-1-10.JPG","albums/evans-mb/vinyl-2-10.JPG"],
+        "highres": ["albums/evans-mb/cover-front-70.JPG","albums/evans-mb/cover-back-70.JPG","albums/evans-mb/cover-side-70.JPG","albums/evans-mb/vinyl-1-70.JPG","albums/evans-mb/vinyl-2-70.JPG"],
+        "info": "Record has hairlines and light inaudible marks, plays beautifully, VG+. Cleaning on side B recommended. Sleeve is NM, perfect spine, light foxing stains on back, generic inner sleeve (original) has aged.",
+        "release": "https://www.discogs.com/release/4267803-The-Bill-Evans-Trio-Moon-Beams"
+    },
+    {
         "id": "booker-out",
         "title": "Out Front",
         "artist": "Booker Little",
